@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виста</string>
+    <string name="title_mirror">Трансляция</string>
+    <string name="searching_tvs">Поиск телевизоров в сети Wi-Fi…</string>
+    <string name="no_tvs_found">Телевизоры не найдены</string>
+    <string name="mirroring_active">Дублирование экрана и звука</string>
+    <string name="tap_to_stop">Нажмите, чтобы остановить</string>
+    <string name="notification_title">Виста транслирует экран</string>
+    <string name="notification_text">Экран и звук передаются на телевизор по Wi-Fi</string>
+    <string name="stop">Остановить</string>
+</resources>
